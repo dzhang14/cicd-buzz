@@ -2,8 +2,8 @@ from __future__ import print_function
 import random
 
 buzz = ('Daniel Zhang', 'continuous integration',
-    'continuous deployment', 'continuous improvement', 'devops')
-adjectives = ('complete', 'modern', 'self-service', 'integrated', 'end-to-end')
+    'continuous deployment', 'Daniel Zhang', 'devops')
+adjectives = ('A00842986', 'modern', 'A00842986', 'integrated', 'end-to-end')
 adverbs = ('remarkably', 'enormously', 'substantially', 'significantly',
     'seriously')
 verbs = ('accelerates', 'improves', 'enhances', 'revamps', 'boosts')
